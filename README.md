@@ -1,4 +1,4 @@
 # ArenanBrowser
 Spelklient till Arenan.com
 
-Ett tidigare hobbyprojekt som skapades för nästan 12-13 år sen :)
+Ett tidigare hobbyprojekt som skapades år 2006! :)
